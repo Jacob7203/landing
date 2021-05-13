@@ -13,20 +13,20 @@ $theme-styles: (
         "Lucida Serif",
         Lucida,
         Georgia,
-        serif,
+        serif
       ),
       sans-serif: (
         "source-sans-pro",
         "Nunito",
         Lato,
-        sans-serif,
-      ),
+        sans-serif
+      )
     ),
     colors: (
       blue: #215c94,
       green: #16db65,
-      red: #ef3054,
-    ),
+      red: #ef3054
+    )
   ),
   bold: (
     fonts: (
@@ -36,21 +36,21 @@ $theme-styles: (
         Georgia,
         Times,
         "Times New Roman",
-        serif,
+        serif
       ),
       sans-serif: (
         "Poppins",
         "Helvetica Neue",
         Helvetica,
         "Roboto",
-        sans-serif,
-      ),
+        sans-serif
+      )
     ),
     colors: (
       blue: #215c94,
       green: #01be54,
-      red: #ec5033,
-    ),
+      red: #ec5033
+    )
   ),
   minimal: (
     fonts: (
@@ -59,22 +59,22 @@ $theme-styles: (
         Georgia,
         Times,
         "Times New Roman",
-        serif,
+        serif
       ),
       sans-serif: (
         "IBM Plex Sans",
         "Helvetica Neue",
         Helvetica,
         "Roboto",
-        sans-serif,
-      ),
+        sans-serif
+      )
     ),
     colors: (
       blue: #215c94,
       green: #00cc88,
-      red: #ff3366,
-    ),
-  ),
+      red: #ff3366
+    )
+  )
 );
 
 // Monospace font
@@ -240,7 +240,7 @@ $media-breakpoints: (
   sm: 640px,
   md: 800px,
   lg: 960px,
-  xl: 1200px,
+  xl: 1200px
 ) !default;
 
 // Spacing
@@ -248,26 +248,26 @@ $spacer: 1rem !default;
 $spacers: (
   0: 0,
   1: (
-    $spacer * 0.55556,
+    $spacer * 0.55556
   ),
   2: (
-    $spacer * 0.83333,
+    $spacer * 0.83333
   ),
   3: (
-    $spacer * 1.11111,
+    $spacer * 1.11111
   ),
   4: (
-    $spacer * 1.66667,
+    $spacer * 1.66667
   ),
   5: (
-    $spacer * 2.22222,
+    $spacer * 2.22222
   ),
   6: (
-    $spacer * 3.33333,
+    $spacer * 3.33333
   ),
   7: (
-    $spacer * 5,
-  ),
+    $spacer * 5
+  )
 ) !default;
 
 // Sizing
@@ -277,7 +277,7 @@ $sizes: (
   33: 33%,
   50: 50%,
   100: 100%,
-  auto: auto,
+  auto: auto
 ) !default;
 
 // Container max widths
@@ -285,7 +285,7 @@ $container-sizes: (
   small: 570px,
   medium: 770px,
   large: 1170px,
-  xlarge: 1400px,
+  xlarge: 1400px
 ) !default;
 
 // Grid
