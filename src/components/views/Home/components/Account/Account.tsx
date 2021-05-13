@@ -3,7 +3,7 @@ import { makeStyles } from "@material-ui/core/styles"
 import { Grid, Typography } from "@material-ui/core"
 import { Image } from "components/atoms"
 import { SectionHeader } from "components/molecules"
-import { CardBase } from "components/organisms"
+import CardBase from "components/organisms/CardBase"
 import ChevronRightIcon from "@material-ui/icons/ChevronRight"
 
 const useStyles = makeStyles((theme) => ({

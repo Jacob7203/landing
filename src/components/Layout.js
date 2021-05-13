@@ -2,7 +2,7 @@ import React from "react"
 import { Helmet } from "react-helmet"
 import _ from "lodash"
 
-import { withPrefix, attribute } from "../utils"
+import { withPrefix, attribute } from "./utils"
 import Announcement from "./Announcement"
 import Header from "./Header"
 import Footer from "./Footer"

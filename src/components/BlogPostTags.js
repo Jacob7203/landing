@@ -1,7 +1,7 @@
 import React from "react"
 import _ from "lodash"
 
-import { getData, Link, withPrefix } from "../utils"
+import { getData, Link, withPrefix } from "./utils"
 
 export default class BlogPostTags extends React.Component {
   render() {

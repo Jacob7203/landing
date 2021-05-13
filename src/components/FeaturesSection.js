@@ -1,7 +1,7 @@
 import React from "react"
 import _ from "lodash"
 
-import { classNames, toStyleObj, withPrefix } from "../utils"
+import { classNames, toStyleObj, withPrefix } from "./utils"
 import Feature from "./Feature"
 
 export default class FeaturesSection extends React.Component {

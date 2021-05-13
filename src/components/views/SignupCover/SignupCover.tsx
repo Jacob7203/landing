@@ -27,6 +27,7 @@ const useStyles = makeStyles((theme) => {
       justifyContent: "center",
       [theme.breakpoints.down("sm")]: {
         maxWidth: 500,
+        // eslint-disable-next-line quotes
         margin: `0 auto`
       }
     },

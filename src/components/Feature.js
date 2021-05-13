@@ -1,7 +1,7 @@
 import React from "react"
 import _ from "lodash"
 
-import { classNames, htmlToReact, withPrefix, markdownify } from "../utils"
+import { classNames, htmlToReact, withPrefix, markdownify } from "./utils"
 import SectionActions from "./SectionActions"
 
 export default class Feature extends React.Component {

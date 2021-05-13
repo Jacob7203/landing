@@ -1,7 +1,7 @@
 import React from "react"
 import _ from "lodash"
 
-import { classNames } from "../utils"
+import { classNames } from "./utils"
 import Action from "./Action"
 
 export default class HeaderMenu extends React.Component {

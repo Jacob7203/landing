@@ -2,8 +2,8 @@ import React from "react"
 import clsx from "clsx"
 import { makeStyles } from "@material-ui/core/styles"
 import { Grid, Typography, Avatar } from "@material-ui/core"
-import { CardBase } from "components/organisms"
-import { LearnMoreLink } from "components/atoms"
+import CardBase from "components/organisms/CardBase"
+import LearnMoreLink from "components/atoms/LearnMoreLink"
 
 const useStyles = makeStyles((theme) => ({
   root: {

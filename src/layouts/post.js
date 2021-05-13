@@ -3,7 +3,7 @@ import _ from "lodash"
 import moment from "moment-strftime"
 
 import { Layout } from "../components/index"
-import { classNames, withPrefix, markdownify } from "../utils"
+import { classNames, withPrefix, markdownify } from "../components/utils"
 import BlogPostCategories from "../components/BlogPostCategories"
 import BlogPostAuthor from "../components/BlogPostAuthor"
 import BlogPostTags from "../components/BlogPostTags"

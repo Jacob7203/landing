@@ -2,7 +2,7 @@ import React from "react"
 import _ from "lodash"
 import moment from "moment-strftime"
 
-import { classNames, Link, withPrefix } from "../utils"
+import { classNames, Link, withPrefix } from "./utils"
 import BlogPostCategories from "./BlogPostCategories"
 import BlogPostAuthor from "./BlogPostAuthor"
 

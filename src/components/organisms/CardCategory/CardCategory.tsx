@@ -1,14 +1,15 @@
 import React from "react"
 import clsx from "clsx"
 import { makeStyles } from "@material-ui/core/styles"
-import { CardBase, DescriptionListIcon } from "components/organisms"
+import CardBase from "components/organisms/CardBase"
+import DescriptionListIcon from "components/organisms/DescriptionListIcon"
 
-const useStyles = makeStyles((theme) => ({
+const useStyles = makeStyles({
   root: {
     height: "100%",
     width: "100%"
   }
-}))
+})
 
 /**
  * Component to display the category card

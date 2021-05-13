@@ -1,7 +1,7 @@
 import React from "react"
 import _ from "lodash"
 
-import { classNames, Link, withPrefix, htmlToReact } from "../utils"
+import { classNames, Link, withPrefix, htmlToReact } from "./utils"
 import FooterMenu from "./FooterMenu"
 import Icon from "./Icon"
 

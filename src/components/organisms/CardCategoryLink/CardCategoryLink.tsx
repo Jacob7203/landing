@@ -3,8 +3,8 @@ import clsx from "clsx"
 import { makeStyles } from "@material-ui/core/styles"
 import { Grid, Typography, IconButton } from "@material-ui/core"
 import ArrowRightAltIcon from "@material-ui/icons/ArrowRightAlt"
-import { IconAlternate } from "components/molecules"
-import { CardBase } from "components/organisms"
+import IconAlternate from "components/molecules/IconAlternate"
+import CardBase from "components/organisms/CardBase"
 
 const useStyles = makeStyles((theme) => ({
   root: {

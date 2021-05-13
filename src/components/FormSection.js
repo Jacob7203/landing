@@ -1,7 +1,7 @@
 import React from "react"
 import _ from "lodash"
 
-import { classNames, toStyleObj, withPrefix, markdownify } from "../utils"
+import { classNames, toStyleObj, withPrefix, markdownify } from "./utils"
 import FormField from "./FormField"
 
 export default class FormSection extends React.Component {

@@ -9,7 +9,7 @@ import {
   Avatar
 } from "@material-ui/core"
 import { SectionHeader } from "components/molecules"
-import { CardBase } from "components/organisms"
+import CardBase from "components/organisms/CardBase"
 
 const useStyles = makeStyles((theme) => ({
   cardBase: {

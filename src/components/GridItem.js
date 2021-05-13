@@ -1,7 +1,7 @@
 import React from "react"
 import _ from "lodash"
 
-import { classNames, withPrefix, markdownify } from "../utils"
+import { classNames, withPrefix, markdownify } from "./utils"
 import SectionActions from "./SectionActions"
 
 export default class GridItem extends React.Component {

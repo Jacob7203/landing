@@ -1,28 +1,22 @@
 // import App from 'next/app'
+import React from "react"
 import { useEffect } from "react"
 import Router from "next/router"
 import "../sass/main.scss"
+import { AppProps } from "next/dist/next-server/lib/router/router"
+import { invoke } from "lodash"
 
-function MyApp({ Component, pageProps }) {
+function MyApp({ Component, pageProps }: AppProps): JSX.Element {
   useEffect(() => {
-    if (window.onNextjsAppDidMount) {
-      window.onNextjsAppDidMount()
-    }
-
-    if (window.onNextjsRouteChangeComplete) {
-      window.onNextjsRouteChangeComplete()
-    }
+    invoke(window, "onNextjsAppDidMount")
+    invoke(window, "onNextjsRouteChangeComplete")
 
     const handleRouteChangeStart = () => {
-      if (window.onNextjsRouteChangeStart) {
-        window.onNextjsRouteChangeStart()
-      }
+      invoke(window, "onNextjsRouteChangeStart")
     }
 
     const handleRouteChangeComplete = () => {
-      if (window.onNextjsRouteChangeComplete) {
-        window.onNextjsRouteChangeComplete()
-      }
+      invoke(window, "onNextjsRouteChangeComplete")
     }
 
     Router.events.on("routeChangeStart", handleRouteChangeStart)

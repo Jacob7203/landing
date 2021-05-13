@@ -1,7 +1,7 @@
 import React from "react"
 import _ from "lodash"
 
-import { classNames, toStyleObj, withPrefix, getData, getPages } from "../utils"
+import { classNames, toStyleObj, withPrefix, getData, getPages } from "./utils"
 import BlogFeedItemFilter from "./BlogFeedItemFilter"
 import SectionActions from "./SectionActions"
 

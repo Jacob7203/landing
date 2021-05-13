@@ -1,7 +1,7 @@
 import React from "react"
 import _ from "lodash"
 
-import { classNames, markdownify } from "../utils"
+import { classNames, markdownify } from "./utils"
 import Icon from "./Icon"
 
 export default class Announcement extends React.Component {

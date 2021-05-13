@@ -1,7 +1,7 @@
 import React from "react"
 import _ from "lodash"
 
-import { Link, withPrefix } from "../utils"
+import { Link, withPrefix } from "./utils"
 import Icon from "./Icon"
 import HeaderMenu from "./HeaderMenu"
 

@@ -1,7 +1,7 @@
 import React from "react"
 import _ from "lodash"
 
-import { getData } from "../utils"
+import { getData } from "./utils"
 import BlogPostFeedItem from "./BlogPostFeedItem"
 
 export default class BlogFeedItemFilter extends React.Component {
