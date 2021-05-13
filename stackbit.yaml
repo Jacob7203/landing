@@ -4,6 +4,7 @@ stackbitVersion: ~0.3.0
 ssgName: nextjs
 ssgVersion: 10.2.0
 buildCommand: yarn build
+nodeVersion: 14.16.1
 publishDir: out
 staticDir: public
 uploadDir: images

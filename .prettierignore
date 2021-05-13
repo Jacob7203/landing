@@ -1,0 +1,19 @@
+
+# IntelliJ
+.idea
+
+# Node
+node_modules
+*.log
+
+# Build artifacts
+/public
+.next
+__generated__
+.env
+.env.local
+
+/target
+
+.yarn
+out

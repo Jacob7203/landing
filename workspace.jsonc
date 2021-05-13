@@ -1,0 +1,120 @@
+{
+  "$schema": "https://static.bit.dev/teambit/schemas/schema.json",
+  "teambit.workspace/workspace": {
+    "name": "MicroNews",
+    /**
+     * set the icon to be shown on the Bit server.
+     **/
+    "icon": "https://cdn.watheia.org/compendium/v1/icon-gold.png",
+    "defaultDirectory": "{name}",
+    "defaultScope": "watheia.labs"
+  },
+  // "teambit.ui-foundation/ui": {
+  // "port": 8080,
+  // "portRange": [3003, 3100],
+  //   "host": "watheia.org",
+  //   "publicDir": "public/bit"
+  // },
+  "teambit.dependencies/dependency-resolver": {
+    "packageManager": "teambit.dependencies/yarn",
+    "policy": {
+      "dependencies": {
+        "@apollo/client": "3.3.17",
+        "@babel/core": "7.14.0",
+        "@babel/preset-env": "7.14.1",
+        "@babel/preset-react": "7.13.13",
+        "@babel/preset-typescript": "7.13.0",
+        "@material-ui/core": "4.11.4",
+        "@serenity-js/assertions": "2.28.0",
+        "@serenity-js/console-reporter": "2.28.0",
+        "@serenity-js/core": "2.28.0",
+        "@serenity-js/jasmine": "2.28.0",
+        "@serenity-js/local-server": "2.28.0",
+        "@serenity-js/protractor": "2.28.0",
+        "@serenity-js/rest": "2.28.0",
+        "@serenity-js/serenity-bdd": "2.28.0",
+        "@testing-library/jest-dom": "5.12.0",
+        "@testing-library/react": "11.2.6",
+        "@testing-library/react-hooks": "5.1.2",
+        "@types/jasmine": "3.7.2",
+        "@types/jest": "26.0.23",
+        "@types/mocha": "8.2.2",
+        "@types/node": "15.0.2",
+        "@typescript-eslint/eslint-plugin": "4.23.0",
+        "@typescript-eslint/parser": "4.23.0",
+        "aos": "2.3.4",
+        "babel-jest": "26.6.3",
+        "chromedriver": "90.0.0",
+        "classnames": "2.3.1",
+        "clsx": "1.1.1",
+        "core-js": "3.12.0",
+        "eslint": "7.26.0",
+        "eslint-plugin-react": "7.23.2",
+        "jasmine": "3.7.0",
+        "jest": "26.6.3",
+        "next": "10.2.0",
+        "npm-failsafe": "0.4.3",
+        "protractor": "7.0.0",
+        "react": "17.0.2",
+        "react-dom": "17.0.2",
+        "react-lazy-load-image-component": "1.5.1",
+        "react-test-renderer": "17.0.2",
+        "rimraf": "3.0.2",
+        "serve": "11.3.2",
+        "ts-node": "9.1.1",
+        "typescript": "4.2.4"
+      },
+      "peerDependencies": {
+        "@types/react": "^17.0.0",
+        "@types/react-dom": "^17.0.0",
+        "react": "^17.0.0",
+        "react-dom": "^17.0.0"
+      }
+    },
+    "packageManagerArgs": [],
+    "devFilePatterns": ["**/*.spec.ts"],
+    "strictPeerDependencies": true
+  },
+  "teambit.workspace/variants": {
+    "*": {
+      "defaultScope": "watheia.labs",
+      "teambit.pkg/pkg": {
+        "packageManagerPublishArgs": ["--access public"],
+        "packageJson": {
+          "license": "EPL-2.0",
+          "public": true,
+          "name": "@watheia/labs.{name}",
+          "author": "Aaron R Miller <amiller@watheia.org>",
+          "homepage": "https://www.watheia.io/home",
+          "private": false,
+          "engines": {
+            "node": ">=12.15.0"
+          },
+          "repository": {
+            "type": "git",
+            "url": "https://gitlab.com/watheia/watheia-micro"
+          },
+          "keywords": [
+            "watheia",
+            "micro",
+            "domain-specific",
+            "micro-component",
+            "micro-frontend",
+            "webcomponent",
+            "snowpack",
+            "svelte",
+            "preact"
+          ]
+        }
+      }
+    },
+    "aspects": {
+      "teambit.harmony/aspect": {}
+    },
+    "components": {
+      "teambit.react/react": {
+        "mdx": true
+      }
+    }
+  }
+}
