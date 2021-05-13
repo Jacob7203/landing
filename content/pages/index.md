@@ -17,7 +17,7 @@ sections:
   - type: grid_section
     grid_items:
       - title: Increase Customer Focus
-        title_align: left
+        title_align: center
         content_align: left
         image: images/2-days.svg
         image_alt: Section item 1 icon
