@@ -1,5 +1,5 @@
 {
-  "title": "Stackbit Event Theme",
+  "title": "Watheia",
   "path_prefix": "/",
   "layout_type": "boxed",
   "style": "classic",
@@ -7,8 +7,8 @@
   "mode": "light",
   "base_font": "sans-serif",
   "header": {
-    "title": "MicroNews",
-    "logo_alt": "Watheia logo",
+    "title": "Watheia",
+    "logo_alt": "Watheia Logo",
     "has_primary_nav": false,
     "has_secondary_nav": true,
     "secondary_nav_links": [
@@ -37,7 +37,7 @@
     "has_secondary_nav": false,
     "has_tertiary_nav": false,
     "has_social": false,
-    "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=event&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>"
+    "content": "&copy; Watheia Labs, LLC. All rights reserved."
   },
-  "domain": "https://famous-squid-60466.netlify.app"
+  "domain": "https://watheia-landing.vercel.app"
 }
