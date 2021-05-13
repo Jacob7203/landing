@@ -9,17 +9,17 @@ const sourcebitConfig = require("./sourcebit.js")
 sourcebit.fetch(sourcebitConfig)
 
 const withBundleAnalyzer = require("@next/bundle-analyzer")({
-  enabled: process.env.ANALYZE === "true",
+  enabled: process.env.ANALYZE === "true"
 })
 
 const nextConfig = {
   future: { webpack5: true },
   trailingSlash: true,
   devIndicators: {
-    autoPrerender: false,
+    autoPrerender: false
   },
   env: {
-    DATOCMS_API_TOKEN: process.env.DATOCMS_API_TOKEN,
+    DATOCMS_API_TOKEN: process.env.DATOCMS_API_TOKEN
   },
   sassOptions: {
     // scss files might import plain css files from the "public" folder:
@@ -31,7 +31,7 @@ const nextConfig = {
         return { file: path.join("../../public/css", url) }
       }
       return null
-    },
+    }
   },
   webpack: (config, { webpack }) => {
     // Tell webpack to ignore watching content files in the content folder.
@@ -41,7 +41,7 @@ const nextConfig = {
     // whole page
     config.plugins.push(new webpack.WatchIgnorePlugin({ paths: [/\/content\//] }))
     return config
-  },
+  }
 }
 
 const withImages = require("next-images")
