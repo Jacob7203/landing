@@ -1,6 +1,6 @@
 {
-  "name": "stackbit-event-theme",
-  "description": "Stackbit Event Theme",
+  "name": "@watheia/labs.landing",
+  "description": "Watheia Labs Landing Page",
   "version": "0.0.1",
   "license": "MIT",
   "scripts": {
@@ -12,7 +12,7 @@
     "lint": "eslint src",
     "format": "prettier --write .",
     "deps:check": "depcruise --config .dependency-cruiser.js src",
-    "deps:graph": "depcruise --config .dependency-cruiser.js -f dependencygraph.dot --output-type dot src && cat  dependencygraph.dot | dot -T svg > dependencygraph.svg"
+    "deps:graph": "depcruise --config .dependency-cruiser.js -f dependencygraph.dot --output-type ddot src && cat  dependencygraph.dot | dot -T svg > dependencygraph.svg"
   },
   "dependencies": {
     "@apollo/client": "^3.0.2",
