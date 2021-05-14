@@ -433,7 +433,9 @@ seo:
     - name: 'twitter:title'
       value: Micro Frontends by Watheia Labs
     - name: 'twitter:description'
-      value: The preview of the Event theme
+      value: >-
+        Watheia Labs, LLC  is a software engineering and digital design agency
+        located in Southeast Washington State.
     - name: 'twitter:image'
       value: /images/melodic-lavender.png
       relativeUrl: true
