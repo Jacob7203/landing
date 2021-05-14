@@ -420,7 +420,9 @@ seo:
       value: Micro Frontends by Watheia Labs
       keyName: property
     - name: 'og:description'
-      value: The preview of the Event theme
+      value: >-
+        Watheia Labs, LLC  is a software engineering and digital design agency
+        located in Southeast Washington State
       keyName: property
     - name: 'og:image'
       value: /images/icon.png
