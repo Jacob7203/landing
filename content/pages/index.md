@@ -35,7 +35,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
-            label: 'Find Out '
+            label: Find Out How
       - title: Deliver Features Faster
         title_align: left
         content_align: left
