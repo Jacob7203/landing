@@ -423,7 +423,7 @@ seo:
       value: The preview of the Event theme
       keyName: property
     - name: 'og:image'
-      value: /images/drkstr_large.png
+      value: /images/icon.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
