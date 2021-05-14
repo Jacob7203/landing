@@ -435,5 +435,8 @@ seo:
     - name: 'twitter:image'
       value: images/feature-3.jpg
       relativeUrl: true
+  description: >-
+    Watheia Labs, LLC  is a software engineering and digital design agency
+    located in Southeast Washington State
 layout: advanced
 ---
