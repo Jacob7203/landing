@@ -71,7 +71,7 @@ sections:
         image_position: left
         image_width: twenty-five
         actions:
-          - label: lorem-ipsum
+          - label: Find out how
             url: '#'
             style: link
             has_icon: false
