@@ -417,7 +417,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Event Theme
+      value: Micro Frontends by Watheia Labs
       keyName: property
     - name: 'og:description'
       value: The preview of the Event theme
