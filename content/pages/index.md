@@ -422,7 +422,7 @@ seo:
     - name: 'og:description'
       value: >-
         Watheia Labs, LLC  is a software engineering and digital design agency
-        located in Southeast Washington State
+        located in Southeast Washington State.
       keyName: property
     - name: 'og:image'
       value: /images/icon.png
