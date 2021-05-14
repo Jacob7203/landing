@@ -129,7 +129,7 @@ sections:
     background_image: images/cta-background.png
     background_image_opacity: 50
   - type: features_section
-    title: Watch Favorite Talks From Past Events
+    title: Case Studies
     subtitle: '2020'
     features:
       - title: Fast tracks Iconic Nike campaign with the JAMstack
