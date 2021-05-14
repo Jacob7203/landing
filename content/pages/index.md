@@ -58,11 +58,10 @@ sections:
             new_window: false
             no_follow: false
             type: action
-        content: |2+
-           Donec mattis nisl magna, et gravida nisl blandit id. Maecenas scelerisque convallis tempus. Sed non commodo urna. Praesent mattis vitae quam convallis egestas. Etiam sit amet rutrum massa. Ut ut felis vel nunc interdum elementum quis at ipsum. Vivamus scelerisque elit fringilla nisl pellentesque, vitae venenatis justo hendrerit. Morbi gravida nisi elit, non pulvinar leo bibendum id. Vestibulum at blandit orci. Pellentesque nec iaculis risus, lobortis feugiat mauris. Donec lacinia molestie orci a faucibus.
-
-
-
+        content: >
+          Ut ut felis vel nunc interdum elementum quis at ipsum. Vivamus
+          scelerisque elit fringilla nisl pellentesque, vitae venenatis justo
+          hendrerit. 
       - title: Do More With Less
         title_align: left
         content_align: left
