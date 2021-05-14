@@ -151,7 +151,7 @@ sections:
     background_color: primary
     background_image: images/cta-background.png
     background_image_opacity: 50
-    title: Limited time offer for sma
+    title: Post covid recover
   - type: features_section
     title: Case Studies
     subtitle: Est. 2020
