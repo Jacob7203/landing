@@ -229,7 +229,7 @@ sections:
         content: |
           ***
 
-          ### $149hr
+          ### $149 *hr*
 
           Watch Only access to Summit & Base Camp Tracks
 
