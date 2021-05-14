@@ -26,6 +26,30 @@ sections:
         image_alt: Section item 1 icon
         image_position: left
         image_width: twenty-five
+      - title: lorem-ipsum
+        subtitle: lorem-ipsum
+        title_align: left
+        content: >-
+          ## Lorem ipsum
+
+
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+          - Lorem ipsum
+
+          - dolor sit amet
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+        type: grid_item
       - title: Deliver Features Faster
         title_align: left
         content_align: left
@@ -114,7 +138,7 @@ sections:
     subtitle: Fantastic lineup of experts!
     grid_items:
       - title: Eric Widget
-        subtitle: "React Awesome, USA"
+        subtitle: 'React Awesome, USA'
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
           scelerisque interdum ante. Duis tincidunt id purus sit amet malesuada.
@@ -125,7 +149,7 @@ sections:
         image_alt: Speaker 1 photo
         image_position: top
       - title: Parsley Montana
-        subtitle: "The Studio, Distributed, Estonia"
+        subtitle: 'The Studio, Distributed, Estonia'
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
           scelerisque interdum ante. Duis tincidunt id purus sit amet malesuada.
@@ -136,7 +160,7 @@ sections:
         image_alt: Speaker 2 photo
         image_position: top
       - title: Indigo Violet
-        subtitle: "Microsoft, USA"
+        subtitle: 'Microsoft, USA'
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
           scelerisque interdum ante. Duis tincidunt id purus sit amet malesuada.
@@ -147,7 +171,7 @@ sections:
         image_alt: Speaker 3 photo
         image_position: top
       - title: Penny Tool
-        subtitle: "Libris, USA"
+        subtitle: 'Libris, USA'
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
           scelerisque interdum ante. Duis tincidunt id purus sit amet malesuada.
@@ -158,7 +182,7 @@ sections:
         image_alt: Speaker 4 photo
         image_position: top
       - title: Shequondolisa Bivouac
-        subtitle: "Exto, Canada"
+        subtitle: 'Exto, Canada'
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
           scelerisque interdum ante. Duis tincidunt id purus sit amet malesuada.
@@ -169,7 +193,7 @@ sections:
         image_alt: Speaker 5 photo
         image_position: top
       - title: Linguina Nettlewater
-        subtitle: "CSS Rocks, Sweden"
+        subtitle: 'CSS Rocks, Sweden'
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
           scelerisque interdum ante. Duis tincidunt id purus sit amet malesuada.
@@ -180,7 +204,7 @@ sections:
         image_alt: Speaker 6 photo
         image_position: top
       - title: Hugh Millie-Yate
-        subtitle: "Random CMS, Sweden"
+        subtitle: 'Random CMS, Sweden'
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
           scelerisque interdum ante. Duis tincidunt id purus sit amet malesuada.
@@ -191,7 +215,7 @@ sections:
         image_alt: Speaker 7 photo
         image_position: top
       - title: Theodore Handle
-        subtitle: "ReactEvent, Israel"
+        subtitle: 'ReactEvent, Israel'
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
           scelerisque interdum ante. Duis tincidunt id purus sit amet malesuada.
@@ -208,7 +232,7 @@ sections:
     background_color: none
   - type: features_section
     title: Watch Favorite Talks From Past Events
-    subtitle: "2020"
+    subtitle: '2020'
     features:
       - title: Fast tracks Iconic Nike campaign with the JAMstack
         content: >-
@@ -222,7 +246,7 @@ sections:
           gyroscope; picture-in-picture" allowfullscreen></iframe>
         media_position: right
         media_width: sixty
-      - title: "Um, its about your JavaScript..."
+      - title: 'Um, its about your JavaScript...'
         content: >-
           JAMstack is revolutionising the way we think about workflow by
           providing a simpler developer experience, better performance, lower
@@ -466,26 +490,26 @@ seo:
   title: Stackbit Event Theme
   description: The preview of the Event theme
   extra:
-    - name: "og:type"
+    - name: 'og:type'
       value: website
       keyName: property
-    - name: "og:title"
+    - name: 'og:title'
       value: Stackbit Event Theme
       keyName: property
-    - name: "og:description"
+    - name: 'og:description'
       value: The preview of the Event theme
       keyName: property
-    - name: "og:image"
+    - name: 'og:image'
       value: images/feature-3.jpg
       keyName: property
       relativeUrl: true
-    - name: "twitter:card"
+    - name: 'twitter:card'
       value: summary_large_image
-    - name: "twitter:title"
+    - name: 'twitter:title'
       value: Stackbit Event Theme
-    - name: "twitter:description"
+    - name: 'twitter:description'
       value: The preview of the Event theme
-    - name: "twitter:image"
+    - name: 'twitter:image'
       value: images/feature-3.jpg
       relativeUrl: true
 layout: advanced
