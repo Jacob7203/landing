@@ -226,7 +226,7 @@ sections:
     background_color: none
   - type: grid_section
     title: Pricing
-    subtitle: Pass for the event
+    subtitle: Our Products and Services
     grid_items:
       - title: Cloud Native Auto-DevOps
         subtitle: April 14
