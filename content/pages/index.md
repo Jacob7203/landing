@@ -204,7 +204,7 @@ sections:
     title: Pricing
     subtitle: Pass for the event
     grid_items:
-      - title: Managed Auto-DevOps
+      - title: Cloud Native Auto-DevOps
         subtitle: April 14
         title_align: left
         content: |-
