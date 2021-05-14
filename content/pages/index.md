@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: MICRO FRONT ENDS
-    subtitle: disrupt the web monolith
+    subtitle: by Watheia Labs
     content: |
       **June 1, 2021**
     actions:
