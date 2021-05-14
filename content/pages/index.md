@@ -151,6 +151,7 @@ sections:
     background_color: primary
     background_image: images/cta-background.png
     background_image_opacity: 50
+    title: Limi
   - type: features_section
     title: Case Studies
     subtitle: Est. 2020
