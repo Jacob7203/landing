@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: WE BUILD MICRO FRONTENDS!
+    title: MICRO FRONT ENDS
     subtitle: disrupt the web monolith
     content: |
       **June 1, 2021**
