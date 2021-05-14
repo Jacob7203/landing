@@ -412,7 +412,6 @@ sections:
     background_color: none
 seo:
   title: Micro Frontends by Watheia Labs
-  description: The preview of the Event theme
   extra:
     - name: 'og:type'
       value: website
