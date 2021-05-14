@@ -228,7 +228,7 @@ sections:
     title: Pricing
     subtitle: Our Products and Services
     grid_items:
-      - title: Cloud Native Auto-DevOps
+      - title: Brief Consultions and Advice
         subtitle: April 14
         title_align: left
         content: |-
