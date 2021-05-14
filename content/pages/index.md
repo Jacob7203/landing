@@ -162,7 +162,7 @@ sections:
     padding_bottom: large
     background_color: secondary
   - type: grid_section
-    title: What People are Saying
+    title: Clients and Partners Love Us!
     subtitle: Previous event attendees
     grid_items:
       - content: >-
