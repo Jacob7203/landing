@@ -30,7 +30,8 @@
                 "icon": "arrow-right"
             }
         ],
-        "has_anncmnt": false
+        "has_anncmnt": false,
+        "logo": "images/pink-strawberry.png"
     },
     "footer": {
         "has_primary_nav": false,
