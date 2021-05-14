@@ -223,7 +223,7 @@ sections:
             style: primary
         actions_align: left
         actions_width: full-width
-      - title: Software Development
+      - title: Custom Design & Development
         subtitle: April 14 - 15
         title_align: left
         content: |
