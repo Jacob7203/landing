@@ -27,8 +27,7 @@ sections:
         image_position: left
         image_width: twenty-five
         actions:
-          - label: niF
-            url: '#'
+          - url: '#'
             style: link
             has_icon: false
             icon: arrow-left
