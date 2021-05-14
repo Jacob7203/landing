@@ -204,7 +204,7 @@ sections:
     title: Pricing
     subtitle: Pass for the event
     grid_items:
-      - title: Free Consultations and Advice
+      - title: Managed Auto-DevOps
         subtitle: April 14
         title_align: left
         content: |-
