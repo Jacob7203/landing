@@ -149,7 +149,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: primary
-    background_image: images/cta-background.png
+    background_image: images/nasa-1lfI7wkGWZ4-unsplash-80.jpg
     background_image_opacity: 50
     title: Limited time offer
   - type: features_section
