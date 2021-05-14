@@ -67,7 +67,7 @@ sections:
     align: center
     background_color: secondary
   - type: features_section
-    title: Modern Micro Frontends
+    title: The Modern Web
     features:
       - content: >-
           Event is a responsive theme for online events, meetups, conferences
