@@ -244,7 +244,7 @@ sections:
             style: primary
         actions_align: left
         actions_width: full-width
-      - title: Product Development
+      - title: Project Planning & Strategy
         subtitle: April 14 - 16
         title_align: left
         content: |
