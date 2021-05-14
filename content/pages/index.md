@@ -204,7 +204,7 @@ sections:
     title: Pricing
     subtitle: Pass for the event
     grid_items:
-      - title: Consultations and Advice
+      - title: Brief Consultations and Advice
         subtitle: April 14
         title_align: left
         content: |-
