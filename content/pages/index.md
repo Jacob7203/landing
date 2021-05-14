@@ -27,7 +27,7 @@ sections:
         image_position: left
         image_width: twenty-five
         actions:
-          - label: lorem-ipsum
+          - label: niF
             url: '#'
             style: link
             has_icon: false
