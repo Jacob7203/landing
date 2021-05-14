@@ -44,7 +44,7 @@ sections:
         image_position: left
         image_width: twenty-five
         actions:
-          - label: ' dniF'
+          - label: ' tuo dniF'
             url: '#'
             style: link
             has_icon: false
