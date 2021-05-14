@@ -137,7 +137,7 @@ sections:
     background_color: none
   - type: cta_section
     actions:
-      - label: Get tickets
+      - label: Get in Touch
         url: /thank-you
         style: primary
         has_icon: true
