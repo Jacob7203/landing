@@ -1,5 +1,5 @@
 {
-  "title": "Stackbit Event Theme",
+  "title": "Watheia Labs | We build micro frontends!",
   "path_prefix": "/",
   "layout_type": "boxed",
   "style": "classic",
@@ -7,7 +7,7 @@
   "mode": "light",
   "base_font": "sans-serif",
   "header": {
-    "title": "MicroNews",
+    "title": "Watheia",
     "logo_alt": "Watheia logo",
     "has_primary_nav": false,
     "has_secondary_nav": true,
@@ -18,8 +18,8 @@
         "style": "link"
       },
       {
-        "label": "News",
-        "url": "/news",
+        "label": "Demo",
+        "url": "/demo",
         "style": "link"
       },
       {

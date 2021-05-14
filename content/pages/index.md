@@ -7,8 +7,8 @@ sections:
     content: |
       **June 1, 2021**
     actions:
-      - label: Live Preview
-        url: /news
+      - label: Demo Mode
+        url: /demo
         style: primary
     align: center
     padding_top: large
