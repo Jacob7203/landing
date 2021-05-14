@@ -36,6 +36,18 @@ sections:
             no_follow: false
             type: action
             label: Find Out How
+        content: >
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque
+          eleifend scelerisque ante, vel auctor leo mattis nec. Praesent
+          pharetra dolor sit amet ligula interdum pretium. Curabitur et eleifend
+          felis, at finibus quam. Donec mattis nisl magna, et gravida nisl
+          blandit id. Maecenas scelerisque convallis tempus. Sed non commodo
+          urna. Praesent mattis vitae quam convallis egestas. Etiam sit amet
+          rutrum massa. Ut ut felis vel nunc interdum elementum quis at ipsum.
+          Vivamus scelerisque elit fringilla nisl pellentesque, vitae venenatis
+          justo hendrerit. Morbi gravida nisi elit, non pulvinar leo bibendum
+          id. Vestibulum at blandit orci. Pellentesque nec iaculis risus,
+          lobortis feugiat mauris. Donec lacinia molestie orci a faucibus.
       - title: Deliver Features Faster
         title_align: left
         content_align: left
