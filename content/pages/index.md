@@ -39,11 +39,17 @@ sections:
             no_follow: false
             type: action
             label: Find Out How
-        content: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque
-          eleifend scelerisque ante, vel auctor leo mattis nec. Praesent
-          pharetra dolor sit amet ligula interdum pretium. Curabitur et eleifend
-          felis, at finibus quam.
+        content: >+
+          *   *   **Provides personalized and quality customer experience***  
+          **Identifies ‘at risk’ customers and implements effective measures to
+          convince them to stay***   **Delivers right services at the right
+          time***   **Focuses on building constructive relationship with
+          customers**
+
+              **Focuses on customer wants and expectations**
+
+
+
       - title: Deliver Features Faster
         title_align: left
         content_align: left
