@@ -158,7 +158,7 @@ sections:
     background_image: images/nasa-1lfI7wkGWZ4-unsplash-80.jpg
     background_image_opacity: 50
   - type: features_section
-    title: Microlab
+    title: Case Studies
     subtitle: Est. 2020
     features:
       - title: What a modern web development stack looks like tous in 2021
