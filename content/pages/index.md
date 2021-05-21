@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: MICRO FRONTENDS
+    title: we build micro frontends!
     subtitle: by Watheia Labs
     content: |
       **We build micro frontends!**
