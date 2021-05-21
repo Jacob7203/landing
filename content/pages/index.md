@@ -7,8 +7,7 @@ sections:
     content: |
       **June 1, 2021**
     actions:
-      - label: Exper
-        url: /demo
+      - url: /demo
         style: primary
     align: center
     padding_top: large
