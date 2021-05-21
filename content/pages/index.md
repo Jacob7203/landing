@@ -39,17 +39,21 @@ sections:
             no_follow: false
             type: action
             label: Find Out How
-        content: >+
-          *   *   **Provides personalized and quality customer experience***  
-          **Identifies ‘at risk’ customers and implements effective measures to
-          convince them to stay***   **Delivers right services at the right
-          time***   **Focuses on building constructive relationship with
-          customers**
-
-              **Focuses on customer wants and expectations**
+        content: >
+          Provides personalized and quality customer experience.
 
 
+          Identifies 'at risk' customers and implements effective measures to
+          personalize with customer needs.
 
+
+          Delivering services on time.
+
+
+          We are customer focused bringing your business needs first.
+
+
+          ****
       - title: Deliver Features Faster
         title_align: left
         content_align: left
