@@ -4,8 +4,10 @@ sections:
   - type: hero_section
     title: we build micro frontends!
     subtitle: by Watheia Labs
-    content: |
-      **We build micro frontends!**
+    content: >
+      Let your components drive web application delivery on a global scale.
+      Enjoy world-class performance, security, and support every step of the
+      way.
     actions:
       - url: 'https://watheia.app/'
         style: primary
