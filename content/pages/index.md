@@ -9,6 +9,7 @@ sections:
     actions:
       - url: /demo
         style: primary
+        label: Mic
     align: center
     padding_top: large
     padding_bottom: large
