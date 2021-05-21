@@ -9,7 +9,7 @@ sections:
     actions:
       - url: /demo
         style: primary
-        label: Micr
+        label: We build micro frontends!
     align: center
     padding_top: large
     padding_bottom: large
