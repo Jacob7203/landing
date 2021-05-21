@@ -7,7 +7,7 @@ sections:
     content: |
       **June 1, 2021**
     actions:
-      - url: 'https:'
+      - url: 'https://watheia.ap/'
         style: primary
         label: Find Out How
     align: center
