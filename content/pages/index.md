@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: we build micro frontends!
+    title: We build micro frontends!
     subtitle: by Watheia Labs
     content: >
       Let your components drive web application delivery on a global scale.
