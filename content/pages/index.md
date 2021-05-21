@@ -5,7 +5,7 @@ sections:
     title: MICRO FRONTENDS
     subtitle: by Watheia Labs
     content: |
-      **June 1, 2021**
+      **We build micro frontends!**
     actions:
       - url: 'https://watheia.app/'
         style: primary
