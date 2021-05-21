@@ -7,7 +7,7 @@ sections:
     content: |
       **June 1, 2021**
     actions:
-      - url: 'https://watheia.ap/'
+      - url: 'https://watheia.app/'
         style: primary
         label: Find Out How
         new_window: true
