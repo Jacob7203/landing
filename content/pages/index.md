@@ -7,7 +7,7 @@ sections:
     content: |
       **June 1, 2021**
     actions:
-      - label: Visit Lab
+      - label: LAB
         url: /demo
         style: primary
     align: center
