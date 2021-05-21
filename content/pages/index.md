@@ -10,6 +10,7 @@ sections:
       - url: 'https://watheia.ap/'
         style: primary
         label: Find Out How
+        new_window: true
     align: center
     padding_top: large
     padding_bottom: large
