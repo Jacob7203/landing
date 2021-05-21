@@ -116,10 +116,10 @@ sections:
         media_position: right
         media_width: sixty
       - title: Domain Specific
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet
-          elit at nibh ultrices, molestie ullamcorper leo sodales. Pellentesque
-          vehicula ut ipsum sed sodales. Integer finibus scelerisque leo et.
+        content: >
+          ## Applying Cutting-edge Technology to UX Design Fundamentals for UX
+          Designers to Bridge the Gap between Natural Human Behavior and Digital
+          Products.  &#xA;&#xA;
         image: images/feature-2.jpg
         image_alt: Feature 2 placeholder image
         media_position: left
