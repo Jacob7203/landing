@@ -7,7 +7,7 @@ sections:
     content: |
       **June 1, 2021**
     actions:
-      - url: /demo
+      - url: 'https:'
         style: primary
         label: Find Out How
     align: center
