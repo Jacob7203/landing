@@ -7,7 +7,7 @@ sections:
     content: |
       **June 1, 2021**
     actions:
-      - label: LAB
+      - label: Exper
         url: /demo
         style: primary
     align: center
