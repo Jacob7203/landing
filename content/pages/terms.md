@@ -21,9 +21,6 @@ seo:
       value: This is the terms and conditions page
 layout: page
 ---
-Terms and Conditions
-
-
 Last updated: May 15, 2021
 
 Please read these terms and conditions carefully before using Our Service.
