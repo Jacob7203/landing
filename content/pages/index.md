@@ -229,7 +229,7 @@ sections:
     padding_bottom: medium
     background_color: none
 seo:
-  title: We build micro frontends!
+  title: Micro Frontends by Watheia Labs
   extra:
     - name: 'og:type'
       value: website
