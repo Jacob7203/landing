@@ -258,7 +258,7 @@ seo:
       value: /images/melodic-lavender.png
       relativeUrl: true
   description: >-
-    Watheia Labs, LLC  is a software engineering and digital design agency
-    located in Southeast Washington State
+    Watheia Labs, LLC  is a modern engineering and digital design agency
+    offering consulting services in Southeast Washington State.
 layout: advanced
 ---
