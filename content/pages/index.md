@@ -9,7 +9,7 @@ sections:
     actions:
       - url: /demo
         style: primary
-        label: Mic
+        label: Micr
     align: center
     padding_top: large
     padding_bottom: large
