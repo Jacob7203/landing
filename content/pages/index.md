@@ -243,7 +243,7 @@ seo:
         offering consulting services in Southeast Washington State.
       keyName: property
     - name: 'og:image'
-      value: /images/icon.png
+      value: /_static/app-assets/android-chrome-512x512.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
