@@ -7,7 +7,7 @@ sections:
     content: |
       **June 1, 2021**
     actions:
-      - label: Demo Mode
+      - label: Visit Lab
         url: /demo
         style: primary
     align: center
@@ -136,7 +136,9 @@ sections:
     padding_top: none
     background_color: none
   - type: cta_section
-    title: FREE Cloud-Native Auto-DevOps for small and medium sized non-profits located in the Greater Northwest area.
+    title: >-
+      FREE Cloud-Native Auto-DevOps for small and medium sized non-profits
+      located in the Greater Northwest area.
     actions:
       - label: Ask us How
         url: /thank-you
@@ -168,7 +170,9 @@ sections:
           gyroscope; picture-in-picture" allowfullscreen></iframe>
         media_position: right
         media_width: sixty
-      - title: 'Natural Words - How we modernized an Eclipse plugin using the Language Server Protocol (LSP)'
+      - title: >-
+          Natural Words - How we modernized an Eclipse plugin using the Language
+          Server Protocol (LSP)
         content: >-
           JAMstack is revolutionising the way we think about workflow by
           providing a simpler developer experience, better performance, lower
