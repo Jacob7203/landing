@@ -40,7 +40,8 @@ sections:
             type: action
             label: Learn More
         content: >
-          Watheia Labs personalized to provide a quality customer experience.
+          Watheia Labs personalizes and connects to provide a quality customer
+          experience.
 
 
           Identifies 'at risk' customers and implements effective measures to
