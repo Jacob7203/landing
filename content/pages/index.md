@@ -80,7 +80,7 @@ sections:
     align: center
     background_color: secondary
   - type: features_section
-    title: The Modern Web
+    title: Colaboration
     features:
       - content: |
           What does it mean to be "modern" in 2021?
