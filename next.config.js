@@ -2,7 +2,7 @@
 require("dotenv").config()
 const path = require("path")
 const sourcebit = require("sourcebit")
-const { MICROLAB_URL } = process.env
+const { BLOG_URL } = process.env
 
 const sourcebitConfig = require("./sourcebit.js")
 
@@ -28,12 +28,12 @@ const nextConfig = {
         destination: `/:path*`
       },
       {
-        source: "/micro",
-        destination: `${MICROLAB_URL}/micro`
+        source: "/blog",
+        destination: `${BLOG_URL}/blog`
       },
       {
-        source: "/micro/:path*",
-        destination: `${MICROLAB_URL}/micro/:path*`
+        source: "/blog/:path*",
+        destination: `${BLOG_URL}/blog/:path*`
       }
     ]
   },
