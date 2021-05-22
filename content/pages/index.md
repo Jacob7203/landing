@@ -83,7 +83,7 @@ sections:
     title: Colaboration
     features:
       - content: |
-          What does it mean to be "modern" in 2021?
+          Our strategy for the modern web.
         align: center
     feature_padding_vert: medium
     align: center
