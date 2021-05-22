@@ -44,8 +44,8 @@ sections:
           experience.
 
 
-          Identifies 'at risk' customers and implements effective measures to
-          personalize with customer needs.
+          Identifies customers behaviors and implements effective measures  with
+          customer satisfaction #1 strategy
 
 
           Delivering services on time.
