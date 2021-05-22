@@ -48,7 +48,7 @@ sections:
           customer satisfaction #1 strategy
 
 
-          Delivering services on time.
+          Delivering the right  services at the right time.
 
 
           We are customer focused bringing your business needs first
