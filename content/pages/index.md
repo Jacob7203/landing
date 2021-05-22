@@ -9,7 +9,7 @@ sections:
       Enjoy world-class performance, security, and support every step of the
       way.
     actions:
-      - url: "https://watheia.app/"
+      - url: 'https://watheia.app/'
         style: primary
         label: Find Out How
         new_window: true
@@ -30,7 +30,7 @@ sections:
         image_position: left
         image_width: twenty-five
         actions:
-          - url: "#"
+          - url: '#'
             style: link
             has_icon: false
             icon: arrow-left
@@ -39,19 +39,6 @@ sections:
             no_follow: false
             type: action
             label: Learn More
-        content: >
-          Watheia Labs personalizes and connects to provide a quality customer
-          experience.
-
-
-          Identifies customers behaviors and implements effective measures  with
-          customer satisfaction #1 strategy
-
-
-          Delivering the right  services at the right time.
-
-
-          We are customer focused bringing your business needs first
       - title: Deliver Features Faster
         title_align: left
         content_align: left
@@ -61,7 +48,7 @@ sections:
         image_width: twenty-five
         actions:
           - label: How tuo dniF
-            url: "#"
+            url: '#'
             style: link
             has_icon: false
             icon: arrow-left
@@ -82,7 +69,7 @@ sections:
         image_width: twenty-five
         actions:
           - label: Find out how
-            url: "#"
+            url: '#'
             style: link
             has_icon: false
             icon: arrow-left
@@ -243,30 +230,30 @@ sections:
 seo:
   title: Micro Frontends by Watheia Labs
   extra:
-    - name: "og:type"
+    - name: 'og:type'
       value: website
       keyName: property
-    - name: "og:title"
+    - name: 'og:title'
       value: Micro Frontends by Watheia Labs
       keyName: property
-    - name: "og:description"
+    - name: 'og:description'
       value: >-
         Watheia Labs, LLC  is a modern engineering and digital design agency
         offering consulting services in Southeast Washington State.
       keyName: property
-    - name: "og:image"
+    - name: 'og:image'
       value: /_static/app-assets/android-chrome-512x512.png
       keyName: property
       relativeUrl: true
-    - name: "twitter:card"
+    - name: 'twitter:card'
       value: summary_large_image
-    - name: "twitter:title"
+    - name: 'twitter:title'
       value: Micro Frontends by Watheia Labs
-    - name: "twitter:description"
+    - name: 'twitter:description'
       value: >-
         Watheia Labs, LLC  is a software engineering and digital design agency
         located in Southeast Washington State.
-    - name: "twitter:image"
+    - name: 'twitter:image'
       value: /images/melodic-lavender.png
       relativeUrl: true
   description: >-
