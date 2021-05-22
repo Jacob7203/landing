@@ -40,7 +40,7 @@ sections:
             type: action
             label: Learn More
         content: >
-          Provides personalized and quality customer experience.
+          Watheia Labs personalized to provide a quality customer experience.
 
 
           Identifies 'at risk' customers and implements effective measures to
@@ -50,10 +50,7 @@ sections:
           Delivering services on time.
 
 
-          We are customer focused bringing your business needs first.
-
-
-          ****
+          We are customer focused bringing your business needs first
       - title: Deliver Features Faster
         title_align: left
         content_align: left
