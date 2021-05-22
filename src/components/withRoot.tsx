@@ -5,7 +5,7 @@ import getTheme from "./theme"
 
 export function withRoot<P>(Component: React.ComponentType<P>) {
   function WithRoot(props: P) {
-    const theme = getTheme("light")
+    const theme = getTheme("dark")
     return (
       <ThemeProvider theme={theme}>
         {/* CssBaseline kickstart an elegant, consistent, and simple baseline to build upon. */}
