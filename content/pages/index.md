@@ -185,7 +185,7 @@ sections:
       Try out our new Microlab Workspace, a bold new way to build cloud-native
       micro-frontends for the modern web!
     actions:
-      - label: Get tickets
+      - label: Launch Demo
         url: /thank-you
         style: primary
         has_icon: true
