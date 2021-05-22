@@ -1,8 +1,8 @@
 /** @format */
 require("dotenv").config()
-
 const path = require("path")
 const sourcebit = require("sourcebit")
+const { MICRLAB_URL } = process.env
 
 const sourcebitConfig = require("./sourcebit.js")
 
@@ -20,6 +20,22 @@ const nextConfig = {
   },
   env: {
     DATOCMS_API_TOKEN: process.env.DATOCMS_API_TOKEN
+  },
+    async rewrites() {
+    return [
+      {
+        source: '/:path*',
+        destination: `/:path*`,
+      },
+      {
+        source: '/micro',
+        destination: `${MICRLAB_URL}/micro`,
+      },
+      {
+        source: '/micro/:path*',
+        destination: `${MICRLAB_URL}/micro/:path*`,
+      },
+    ]
   },
   sassOptions: {
     // scss files might import plain css files from the "public" folder:
@@ -41,7 +57,19 @@ const nextConfig = {
     // whole page
     config.plugins.push(new webpack.WatchIgnorePlugin({ paths: [/\/content\//] }))
     return config
-  }
+  },
+  images: {
+    domains: [
+      "cdn.watheia.org",
+      "www.datocms-assets.com",
+      "a.storyblok.com",
+      "images.ctfassets.net",
+      "images.prismic.io",
+      "cdn.aglty.io",
+      "localhost", // For Strapi
+    ],
+    imageSizes: [24, 64, 300],
+  },
 }
 
 const withImages = require("next-images")
