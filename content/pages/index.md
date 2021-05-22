@@ -181,7 +181,9 @@ sections:
     padding_bottom: large
     background_color: secondary
   - type: cta_section
-    title: Current price is only $49. The price will increase soon!
+    title: >-
+      Try out our new Microlab Workspace, a bold new way to build cloud-native
+      micro-frontends for the modern web!
     actions:
       - label: Get tickets
         url: /thank-you
