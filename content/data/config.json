@@ -4,7 +4,7 @@
     "layout_type": "boxed",
     "style": "minimal",
     "palette": "blue",
-    "mode": "light",
+    "mode": "dark",
     "base_font": "sans-serif",
     "header": {
         "title": "Watheia",
