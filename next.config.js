@@ -2,7 +2,7 @@
 require("dotenv").config()
 const path = require("path")
 const sourcebit = require("sourcebit")
-const { MICRLAB_URL } = process.env
+const { MICROLAB_URL } = process.env
 
 const sourcebitConfig = require("./sourcebit.js")
 
@@ -21,20 +21,20 @@ const nextConfig = {
   env: {
     DATOCMS_API_TOKEN: process.env.DATOCMS_API_TOKEN
   },
-    async rewrites() {
+  async rewrites() {
     return [
       {
-        source: '/:path*',
-        destination: `/:path*`,
+        source: "/:path*",
+        destination: `/:path*`
       },
       {
-        source: '/micro',
-        destination: `${MICRLAB_URL}/micro`,
+        source: "/micro",
+        destination: `${MICROLAB_URL}/micro`
       },
       {
-        source: '/micro/:path*',
-        destination: `${MICRLAB_URL}/micro/:path*`,
-      },
+        source: "/micro/:path*",
+        destination: `${MICROLAB_URL}/micro/:path*`
+      }
     ]
   },
   sassOptions: {
@@ -66,10 +66,10 @@ const nextConfig = {
       "images.ctfassets.net",
       "images.prismic.io",
       "cdn.aglty.io",
-      "localhost", // For Strapi
+      "localhost" // For Strapi
     ],
-    imageSizes: [24, 64, 300],
-  },
+    imageSizes: [24, 64, 300]
+  }
 }
 
 const withImages = require("next-images")

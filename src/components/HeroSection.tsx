@@ -40,7 +40,7 @@ const useStyles = makeStyles((theme) => ({
     }
   },
   imageAnimation: {
-    background: `url("https://cdn.watheia.org/assets/web-screens/home/home-hero-bg-light.png")`,
+    background: "url('https://cdn.watheia.org/assets/web-screens/home/home-hero-bg-light.png')",
     backgroundRepeat: "repeat",
     backgroundAttachment: "scroll",
     backgroundSize: "400px auto",
@@ -68,7 +68,11 @@ const useStyles = makeStyles((theme) => ({
   }
 }))
 
-const HeroSection = ({ themeMode = "light", className, ...rest }: ViewComponentProps): JSX.Element => {
+const HeroSection = ({
+  themeMode = "dark",
+  className,
+  ...rest
+}: ViewComponentProps): JSX.Element => {
   const classes = useStyles()
 
   const title = (
@@ -101,14 +105,14 @@ const HeroSection = ({ themeMode = "light", className, ...rest }: ViewComponentP
     "Watheia Labs will make your product look modern and professional while saving you precious time."
 
   const docsButton = (
-    <Button size="large" variant="outlined" color="primary" component="a" href="/documentation">
-      Documentation
+    <Button size="large" variant="outlined" color="primary" component="a" href="/contact">
+      Learn More
     </Button>
   )
 
   const buyButton = (
     <Button size="large" variant="contained" color="primary" component="a" href="/home">
-      Get started
+      Go Micro
     </Button>
   )
 
