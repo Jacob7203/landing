@@ -56,10 +56,6 @@ sections:
             new_window: false
             no_follow: false
             type: action
-        content: >
-          Ut ut felis vel nunc interdum elementum quis at ipsum. Vivamus
-          scelerisque elit fringilla nisl pellentesque, vitae venenatis justo
-          hendrerit.
       - title: Do More With Less
         title_align: left
         content_align: left
