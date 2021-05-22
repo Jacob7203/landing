@@ -128,8 +128,8 @@ sections:
     background_color: none
   - type: cta_section
     title: >-
-      FREE Cloud-Native Auto-DevOps for small and medium sized non-profits
-      located in the Greater Northwest area.
+      FREE Cloud-Native Auto-DevOps, compute included, for small and medium
+      sized non-profits.
     actions:
       - label: Ask us How
         url: /thank-you
