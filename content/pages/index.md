@@ -127,9 +127,7 @@ sections:
     padding_top: none
     background_color: none
   - type: cta_section
-    title: >-
-      FREE Cloud-Native Auto-DevOps, compute included, for small and medium
-      sized non-profits.
+    title: FREE Cloud-Native Auto-DevOps for small and medium sized non-profits.
     actions:
       - label: Ask us How
         url: /thank-you
