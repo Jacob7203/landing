@@ -47,7 +47,7 @@ sections:
         image_position: left
         image_width: twenty-five
         actions:
-          - label: How tuo dniF
+          - label: Learn More
             url: '#'
             style: link
             has_icon: false
