@@ -29,7 +29,7 @@ const Hero = ({ className, ...rest }: ViewComponentProps): JSX.Element => {
               <span>
                 Welcome to{" "}
                 <Typography component="span" variant="inherit" color="primary">
-                  TheFront.
+                  Watheia Labs.
                 </Typography>
                 <br />
                 <span>Develop anything your business needs.</span>
@@ -60,7 +60,7 @@ const Hero = ({ className, ...rest }: ViewComponentProps): JSX.Element => {
         >
           <Image
             src="https://cdn.watheia.org/assets/illustrations/mind-map.svg"
-            alt="TheFront Company"
+            alt="Watheia Labs Company"
             className={classes.image}
           />
         </Grid>

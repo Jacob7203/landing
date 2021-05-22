@@ -3,13 +3,13 @@ export const services = [
     icon: "fas fa-layer-group",
     title: "Built for developers",
     subtitle:
-      "TheFront is built to make your life easier. Variables, build tooling, documentation, and reusable components."
+      "Watheia Labs is built to make your life easier. Variables, build tooling, documentation, and reusable components."
   },
   {
     icon: "fab fa-sketch",
     title: "Designed to be modern",
     subtitle:
-      "Designed with the latest design trends in mind. TheFront feels modern, minimal, and beautiful."
+      "Designed with the latest design trends in mind. Watheia Labs feels modern, minimal, and beautiful."
   },
   {
     icon: "fas fa-code",

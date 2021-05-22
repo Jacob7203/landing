@@ -4,23 +4,24 @@ seo:
   title: Terms and Conditions
   description: This is the terms and conditions page
   extra:
-    - name: 'og:type'
+    - name: "og:type"
       value: website
       keyName: property
-    - name: 'og:title'
+    - name: "og:title"
       value: Terms and Conditions
       keyName: property
-    - name: 'og:description'
+    - name: "og:description"
       value: This is the terms and conditions page
       keyName: property
-    - name: 'twitter:card'
+    - name: "twitter:card"
       value: summary
-    - name: 'twitter:title'
+    - name: "twitter:title"
       value: Terms and Conditions
-    - name: 'twitter:description'
+    - name: "twitter:description"
       value: This is the terms and conditions page
 layout: page
 ---
+
 Last updated: May 15, 2021
 
 Please read these terms and conditions carefully before using Our Service.
@@ -35,31 +36,31 @@ The words of which the initial letter is capitalized have meanings defined under
 
 For the purposes of these Terms and Conditions:
 
-*   **Affiliate** means an entity that controls, is controlled by or is under common control with a party, where "control" means ownership of 50% or more of the shares, equity interest or other securities entitled to vote for election of directors or other managing authority.
+- **Affiliate** means an entity that controls, is controlled by or is under common control with a party, where "control" means ownership of 50% or more of the shares, equity interest or other securities entitled to vote for election of directors or other managing authority.
 
-*   **Account** means a unique account created for You to access our Service or parts of our Service.
+- **Account** means a unique account created for You to access our Service or parts of our Service.
 
-*   **Country** refers to: Washington, United States
+- **Country** refers to: Washington, United States
 
-*   **Company** (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to Watheia Labs, LLC, 522 W RIVERSIDE AVE, SPOKANE, WA 99201.
+- **Company** (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to Watheia Labs, LLC, 522 W RIVERSIDE AVE, SPOKANE, WA 99201.
 
-*   **Content** refers to content such as text, images, or other information that can be posted, uploaded, linked to or otherwise made available by You, regardless of the form of that content.
+- **Content** refers to content such as text, images, or other information that can be posted, uploaded, linked to or otherwise made available by You, regardless of the form of that content.
 
-*   **Device** means any device that can access the Service such as a computer, a cellphone or a digital tablet.
+- **Device** means any device that can access the Service such as a computer, a cellphone or a digital tablet.
 
-*   **Feedback** means feedback, innovations or suggestions sent by You regarding the attributes, performance or features of our Service.
+- **Feedback** means feedback, innovations or suggestions sent by You regarding the attributes, performance or features of our Service.
 
-*   **Promotions** refer to contests, sweepstakes or other promotions offered through the Service.
+- **Promotions** refer to contests, sweepstakes or other promotions offered through the Service.
 
-*   **Service** refers to the Website.
+- **Service** refers to the Website.
 
-*   **Terms and Conditions** (also referred as "Terms") mean these Terms and Conditions that form the entire agreement between You and the Company regarding the use of the Service.
+- **Terms and Conditions** (also referred as "Terms") mean these Terms and Conditions that form the entire agreement between You and the Company regarding the use of the Service.
 
-*   **Third-party Social Media Service** means any services or content (including data, information, products or services) provided by a third-party that may be displayed, included or made available by the Service.
+- **Third-party Social Media Service** means any services or content (including data, information, products or services) provided by a third-party that may be displayed, included or made available by the Service.
 
-*   **Website** refers to Watheia Labs, accessible from [https://www.watheia.io](https://www.watheia.io/)
+- **Website** refers to Watheia Labs, accessible from [https://www.watheia.io](https://www.watheia.io/)
 
-*   **You** means the individual accessing or using the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable.
+- **You** means the individual accessing or using the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable.
 
 # Acknowledgment
 
@@ -105,21 +106,21 @@ The Company is not responsible for the content of the Service's users. You expre
 
 You may not transmit any Content that is unlawful, offensive, upsetting, intended to disgust, threatening, libelous, defamatory, obscene or otherwise objectionable. Examples of such objectionable Content include, but are not limited to, the following:
 
-*   Unlawful or promoting unlawful activity.
+- Unlawful or promoting unlawful activity.
 
-*   Defamatory, discriminatory, or mean-spirited content, including references or commentary about religion, race, sexual orientation, gender, national/ethnic origin, or other targeted groups.
+- Defamatory, discriminatory, or mean-spirited content, including references or commentary about religion, race, sexual orientation, gender, national/ethnic origin, or other targeted groups.
 
-*   Spam, machine â€“ or randomly â€“ generated, constituting unauthorized or unsolicited advertising, chain letters, any other form of unauthorized solicitation, or any form of lottery or gambling.
+- Spam, machine â€“ or randomly â€“ generated, constituting unauthorized or unsolicited advertising, chain letters, any other form of unauthorized solicitation, or any form of lottery or gambling.
 
-*   Containing or installing any viruses, worms, malware, trojan horses, or other content that is designed or intended to disrupt, damage, or limit the functioning of any software, hardware or telecommunications equipment or to damage or obtain unauthorized access to any data or other information of a third person.
+- Containing or installing any viruses, worms, malware, trojan horses, or other content that is designed or intended to disrupt, damage, or limit the functioning of any software, hardware or telecommunications equipment or to damage or obtain unauthorized access to any data or other information of a third person.
 
-*   Infringing on any proprietary rights of any party, including patent, trademark, trade secret, copyright, right of publicity or other rights.
+- Infringing on any proprietary rights of any party, including patent, trademark, trade secret, copyright, right of publicity or other rights.
 
-*   Impersonating any person or entity including the Company and its employees or representatives.
+- Impersonating any person or entity including the Company and its employees or representatives.
 
-*   Violating the privacy of any third person.
+- Violating the privacy of any third person.
 
-*   False information and features.
+- False information and features.
 
 The Company reserves the right, but not the obligation, to, in its sole discretion, determine whether or not any Content is appropriate and complies with this Terms, refuse or remove this Content. The Company further reserves the right to make formatting and edits and change the manner any Content. The Company can also limit or revoke the use of the Service if You post such objectionable Content. As the Company cannot control all content posted by users and/or third parties on the Service, you agree to use the Service at your own risk. You understand that by using the Service You may be exposed to content that You may find offensive, indecent, incorrect or objectionable, and You agree that under no circumstances will the Company be liable in any way for any content, including any errors or omissions in any content, or any loss or damage of any kind incurred as a result of your use of any content.
 
@@ -147,17 +148,17 @@ You may be held accountable for damages (including costs and attorneys' fees) fo
 
 You may submit a notification pursuant to the Digital Millennium Copyright Act (DMCA) by providing our Copyright Agent with the following information in writing (see 17 U.S.C 512(c)(3) for further detail):
 
-*   An electronic or physical signature of the person authorized to act on behalf of the owner of the copyright's interest.
+- An electronic or physical signature of the person authorized to act on behalf of the owner of the copyright's interest.
 
-*   A description of the copyrighted work that You claim has been infringed, including the URL (i.e., web page address) of the location where the copyrighted work exists or a copy of the copyrighted work.
+- A description of the copyrighted work that You claim has been infringed, including the URL (i.e., web page address) of the location where the copyrighted work exists or a copy of the copyrighted work.
 
-*   Identification of the URL or other specific location on the Service where the material that You claim is infringing is located.
+- Identification of the URL or other specific location on the Service where the material that You claim is infringing is located.
 
-*   Your address, telephone number, and email address.
+- Your address, telephone number, and email address.
 
-*   A statement by You that You have a good faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law.
+- A statement by You that You have a good faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law.
 
-*   A statement by You, made under penalty of perjury, that the above information in Your notice is accurate and that You are the copyright owner or authorized to act on the copyright owner's behalf.
+- A statement by You, made under penalty of perjury, that the above information in Your notice is accurate and that You are the copyright owner or authorized to act on the copyright owner's behalf.
 
 You can contact our copyright agent via email at [\[email protected\]](https://cdn.watheia.org/cdn-cgi/l/email-protection) Upon receipt of a notification, the Company will take whatever action, in its sole discretion, it deems appropriate, including removal of the challenged content from the Service.
 
@@ -243,10 +244,10 @@ By continuing to access or use Our Service after those revisions become effectiv
 
 If you have any questions about these Terms and Conditions, You can contact us:
 
-*   By email: [\[email protected\]](https://cdn.watheia.org/cdn-cgi/l/email-protection)
+- By email: [\[email protected\]](https://cdn.watheia.org/cdn-cgi/l/email-protection)
 
-*   By visiting this page on our website: <https://watheialabs.com/contact>
+- By visiting this page on our website: <https://watheialabs.com/contact>
 
-*   By phone number: +1 (866) 790 2399
+- By phone number: +1 (866) 790 2399
 
-*   By mail: 522 W RIVERSIDE AVE, SPOKANE, WA 99201
+- By mail: 522 W RIVERSIDE AVE, SPOKANE, WA 99201
