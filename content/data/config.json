@@ -18,8 +18,8 @@
                 "style": "link"
             },
             {
-                "label": "Demo",
-                "url": "/demo",
+                "label": "Blog",
+                "url": "/blog",
                 "style": "link"
             },
             {
@@ -31,7 +31,7 @@
             }
         ],
         "has_anncmnt": false,
-        "logo": "images/remarkable-neptune.png"
+        "logo": "images/android-chrome-192x192.png"
     },
     "footer": {
         "has_primary_nav": false,
@@ -40,5 +40,5 @@
         "has_social": false,
         "content": "&copy; Watheia Labs, LLC. All rights reserved."
     },
-    "domain": "https://www.watheia.io/home"
+    "domain": "https://watheialabs.com/"
 }

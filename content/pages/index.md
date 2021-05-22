@@ -2,10 +2,12 @@
 title: Home
 sections:
   - type: hero_section
-    title: MICRO FRONTENDS
+    title: We build micro frontends!
     subtitle: by Watheia Labs
-    content: |
-      **We build micro frontends!**
+    content: >
+      Let your components drive web application delivery on a global scale.
+      Enjoy world-class performance, security, and support every step of the
+      way.
     actions:
       - url: 'https://watheia.app/'
         style: primary
@@ -15,7 +17,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: primary
-    background_image: images/hero-background.jpg
+    background_image: images/blueprint.jpg
     background_image_opacity: 15
     background_image_size: cover
   - type: grid_section
@@ -38,10 +40,20 @@ sections:
             type: action
             label: Find Out How
         content: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque
-          eleifend scelerisque ante, vel auctor leo mattis nec. Praesent
-          pharetra dolor sit amet ligula interdum pretium. Curabitur et eleifend
-          felis, at finibus quam.
+          Provides personalized and quality customer experience.
+
+
+          Identifies 'at risk' customers and implements effective measures to
+          personalize with customer needs.
+
+
+          Delivering services on time.
+
+
+          We are customer focused bringing your business needs first.
+
+
+          ****
       - title: Deliver Features Faster
         title_align: left
         content_align: left
@@ -114,10 +126,10 @@ sections:
         media_position: right
         media_width: sixty
       - title: Domain Specific
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet
-          elit at nibh ultrices, molestie ullamcorper leo sodales. Pellentesque
-          vehicula ut ipsum sed sodales. Integer finibus scelerisque leo et.
+        content: >
+          #### Applying Cutting-edge Technology to UX Design Fundamentals for UX
+          Designers to Bridge the Gap between Natural Human Behavior and Digital
+          Products.  &#xA;&#xA;
         image: images/feature-2.jpg
         image_alt: Feature 2 placeholder image
         media_position: left
@@ -156,7 +168,7 @@ sections:
     background_image: images/nasa-1lfI7wkGWZ4-unsplash-80.jpg
     background_image_opacity: 50
   - type: features_section
-    title: Microlab
+    title: Case Studies
     subtitle: Est. 2020
     features:
       - title: What a modern web development stack looks like tous in 2021
@@ -239,11 +251,11 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        Watheia Labs, LLC  is a software engineering and digital design agency
-        located in Southeast Washington State.
+        Watheia Labs, LLC  is a modern engineering and digital design agency
+        offering consulting services in Southeast Washington State.
       keyName: property
     - name: 'og:image'
-      value: /images/icon.png
+      value: /_static/app-assets/android-chrome-512x512.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -258,7 +270,7 @@ seo:
       value: /images/melodic-lavender.png
       relativeUrl: true
   description: >-
-    Watheia Labs, LLC  is a software engineering and digital design agency
-    located in Southeast Washington State
+    Watheia Labs, LLC  is a modern engineering and digital design agency
+    offering consulting services in Southeast Washington State.
 layout: advanced
 ---

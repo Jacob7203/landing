@@ -4,20 +4,20 @@ seo:
   title: MicroNews
   description: This is the demo page
   extra:
-    - name: "og:type"
+    - name: 'og:type'
       value: website
       keyName: property
-    - name: "og:title"
+    - name: 'og:title'
       value: MicroNews
       keyName: property
-    - name: "og:description"
+    - name: 'og:description'
       value: This is the demo page
       keyName: property
-    - name: "twitter:card"
+    - name: 'twitter:card'
       value: summary
-    - name: "twitter:title"
+    - name: 'twitter:title'
       value: MicroNews
-    - name: "twitter:description"
+    - name: 'twitter:description'
       value: This is the demo page
 layout: page
 ---
