@@ -2,7 +2,7 @@
     "title": "Watheia Labs | We build micro frontends!",
     "path_prefix": "/",
     "layout_type": "boxed",
-    "style": "classic",
+    "style": "minimal",
     "palette": "blue",
     "mode": "light",
     "base_font": "sans-serif",
