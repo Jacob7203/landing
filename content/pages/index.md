@@ -64,7 +64,7 @@ sections:
         image_position: left
         image_width: twenty-five
         actions:
-          - label: Find out how
+          - label: Learn More
             url: '#'
             style: link
             has_icon: false
