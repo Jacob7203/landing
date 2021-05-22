@@ -38,7 +38,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
-            label: Lea
+            label: Learn More
         content: >
           Provides personalized and quality customer experience.
 
