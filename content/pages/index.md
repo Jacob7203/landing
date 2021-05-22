@@ -129,7 +129,7 @@ sections:
   - type: cta_section
     title: FREE Cloud-Native Auto-DevOps for small and medium sized non-profits.
     actions:
-      - label: Ask us How
+      - label: Contact Us
         url: /thank-you
         style: primary
         has_icon: true
