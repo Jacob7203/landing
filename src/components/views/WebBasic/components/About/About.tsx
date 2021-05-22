@@ -41,7 +41,7 @@ const About = ({ data, className, ...rest }: ViewComponentProps): JSX.Element =>
               <span>
                 Welcome to{" "}
                 <Typography component="span" variant="inherit" color="primary">
-                  TheFront.
+                  Watheia Labs.
                 </Typography>
                 <br />
                 <span>Develop anything your business needs.</span>

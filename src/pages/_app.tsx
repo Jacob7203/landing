@@ -5,6 +5,7 @@ import Router from "next/router"
 import "../sass/main.scss"
 import { AppProps } from "next/dist/next-server/lib/router/router"
 import { invoke } from "lodash"
+import { withRoot } from "components/withRoot"
 
 function MyApp({ Component, pageProps }: AppProps): JSX.Element {
   useEffect(() => {
@@ -42,4 +43,4 @@ function MyApp({ Component, pageProps }: AppProps): JSX.Element {
 //   return { ...appProps }
 // }
 
-export default MyApp
+export default withRoot(MyApp)

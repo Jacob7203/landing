@@ -60,7 +60,7 @@ const Faq = ({ data, className, ...rest }: ViewComponentProps): JSX.Element => {
         </Grid>
         <Grid item xs={12}>
           <SectionHeader
-            title="Get TheFront and save your time."
+            title="Get Watheia Labs and save your time."
             subtitle="Build a beautiful, modern website with flexible, fully customizable, atomic Material UI components."
             align="center"
             ctaGroup={[

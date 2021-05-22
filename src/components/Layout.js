@@ -24,6 +24,7 @@ export default class Body extends React.Component {
           <meta charSet="utf-8" />
           <meta name="viewport" content="width=device-width, initialScale=1.0" />
           <meta name="google" content="notranslate" />
+          <link rel="stylesheet" href="https://use.typekit.net/xyi1bqv.css"></link>
           <meta
             name="description"
             content={_.get(this.props, "page.frontmatter.seo.description", null) || ""}
@@ -58,41 +59,6 @@ export default class Body extends React.Component {
               />
             )
           })}
-          {style === "bold" ? (
-            font === "serif" ? (
-              <link
-                href="https://fonts.googleapis.com/css2?family=Arvo:ital,wght@0,400;0,700;1,400;1,700&display=swap"
-                rel="stylesheet"
-              />
-            ) : (
-              <link
-                href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,700;1,400;1,700&display=swap"
-                rel="stylesheet"
-              />
-            )
-          ) : style === "classic" ? (
-            font === "serif" ? (
-              <link
-                href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,700;1,400;1,700&display=swap"
-                rel="stylesheet"
-              />
-            ) : (
-              <link
-                href="https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,400;0,700;1,400;1,700&display=swap"
-                rel="stylesheet"
-              />
-            )
-          ) : font === "serif" ? (
-            <link
-              href="https://fonts.googleapis.com/css2?family=IBM+Plex+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap"
-              rel="stylesheet"
-            />
-          ) : (
-            <link
-              href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap"
-              rel="stylesheet"
-            />
-          )}
           {_.get(this.props, "data.config.favicon", null) && (
             <link
               rel="icon"

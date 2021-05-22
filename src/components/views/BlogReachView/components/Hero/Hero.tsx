@@ -91,7 +91,7 @@ const Hero = ({ data, className, ...rest }: ViewComponentProps): JSX.Element => 
                 </Typography>
               </span>
             }
-            subtitle="How you use TheFront's blog cards is up to you! Our design begins with atomic elements which are easily combined to create rich blog post components."
+            subtitle="How you use Watheia Labs's blog cards is up to you! Our design begins with atomic elements which are easily combined to create rich blog post components."
             align={isMd ? "left" : "center"}
             disableGutter
             titleVariant="h3"
