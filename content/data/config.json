@@ -14,7 +14,8 @@
         "secondary_nav_links": [
             {
                 "url": "/about",
-                "style": "link"
+                "style": "link",
+                "label": "App"
             },
             {
                 "label": "Blog",
