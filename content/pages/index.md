@@ -64,7 +64,7 @@ sections:
         image_position: left
         image_width: twenty-five
         actions:
-          - label: Find out how
+          - label: Learn More
             url: '#'
             style: link
             has_icon: false
@@ -80,12 +80,10 @@ sections:
     align: center
     background_color: secondary
   - type: features_section
-    title: The Modern Web
+    title: Colaboration
     features:
       - content: |
-          What does it mean to be "modern" in 2021?
-
-          Is to Collaborate 
+          Our strategy for the modern web.
         align: center
     feature_padding_vert: medium
     align: center
@@ -105,9 +103,9 @@ sections:
         media_width: sixty
       - title: Domain Specific
         content: >
-          #### Applying Cutting-edge Technology to UX Design Fundamentals for UX
+          Applying Cutting-edge Technology to UX Design Fundamentals for UX
           Designers to Bridge the Gap between Natural Human Behavior and Digital
-          Products.  &#xA;&#xA;
+          Products.  
         image: images/feature-2.jpg
         image_alt: Feature 2 placeholder image
         media_position: left
@@ -127,11 +125,9 @@ sections:
     padding_top: none
     background_color: none
   - type: cta_section
-    title: >-
-      FREE Cloud-Native Auto-DevOps for small and medium sized non-profits
-      located in the Greater Northwest area.
+    title: FREE Cloud-Native Auto-DevOps for small and medium sized non-profits.
     actions:
-      - label: Ask us How
+      - label: Contact Us
         url: /thank-you
         style: primary
         has_icon: true
@@ -181,9 +177,11 @@ sections:
     padding_bottom: large
     background_color: secondary
   - type: cta_section
-    title: Current price is only $49. The price will increase soon!
+    title: >-
+      Try out our new Microlab Workspace, a bold new way to build cloud-native
+      micro-frontends for the modern web!
     actions:
-      - label: Get tickets
+      - label: Launch Demo
         url: /thank-you
         style: primary
         has_icon: true

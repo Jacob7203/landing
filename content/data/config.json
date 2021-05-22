@@ -1,44 +1,44 @@
 {
-  "title": "Watheia Labs | We build micro frontends!",
-  "path_prefix": "/",
-  "layout_type": "full-width",
-  "style": "minimal",
-  "palette": "blue",
-  "mode": "dark",
-  "base_font": "sans-serif",
-  "header": {
-    "title": "Watheia",
-    "logo_alt": "Watheia logo",
-    "has_primary_nav": false,
-    "has_secondary_nav": true,
-    "secondary_nav_links": [
-      {
-        "label": "About",
-        "url": "/about",
-        "style": "link"
-      },
-      {
-        "label": "Blog",
-        "url": "/blog",
-        "style": "link"
-      },
-      {
-        "label": "Contact",
-        "url": "/contact",
-        "style": "primary",
-        "has_icon": false,
-        "icon": "arrow-right"
-      }
-    ],
-    "has_anncmnt": false,
-    "logo": "images/android-chrome-192x192.png"
-  },
-  "footer": {
-    "has_primary_nav": false,
-    "has_secondary_nav": false,
-    "has_tertiary_nav": false,
-    "has_social": false,
-    "content": "&copy; Watheia Labs, LLC. All rights reserved."
-  },
-  "domain": "https://watheialabs.com/"
+    "title": "Watheia Labs | We build micro frontends!",
+    "path_prefix": "/",
+    "layout_type": "full-width",
+    "style": "minimal",
+    "palette": "blue",
+    "mode": "dark",
+    "base_font": "sans-serif",
+    "header": {
+        "title": "Watheia",
+        "logo_alt": "Watheia logo",
+        "has_primary_nav": false,
+        "has_secondary_nav": true,
+        "secondary_nav_links": [
+            {
+                "url": "/micro",
+                "style": "link",
+                "label": "Micro"
+            },
+            {
+                "label": "Blog",
+                "url": "/blog",
+                "style": "link"
+            },
+            {
+                "label": "Contact",
+                "url": "/contact",
+                "style": "primary",
+                "has_icon": false,
+                "icon": "arrow-right"
+            }
+        ],
+        "has_anncmnt": false,
+        "logo": "images/android-chrome-192x192.png"
+    },
+    "footer": {
+        "has_primary_nav": false,
+        "has_secondary_nav": false,
+        "has_tertiary_nav": false,
+        "has_social": false,
+        "content": "&copy; Watheia Labs, LLC. All rights reserved."
+    },
+    "domain": "https://watheialabs.com/"
 }
