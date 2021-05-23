@@ -103,9 +103,9 @@ sections:
         media_width: sixty
       - title: Domain Specific
         content: >
-          Applying Cutting-edge Technology to UX Design Fundamentals for UX
-          Designers to Bridge the Gap between Natural Human Behavior and Digital
-          Products.  
+          Applying Cutting-edge Technology to Domain specific and Behavior
+          Driven Design framework to bridge the Gap between Natural Human
+          Behavior and Digital Products.
         image: images/feature-2.jpg
         image_alt: Feature 2 placeholder image
         media_position: left
